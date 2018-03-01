@@ -1,10 +1,14 @@
-.nav2 {
+.nav2 p {
   display: inline-block;
-  margin-right: 10px;
+  margin-left: 10px;
   text-align: left;
   font-size: 11px;
-  background-color: gray;
   color: white;
+}
+.nav2 {
+  background-color: gray;
+  margin-top: 2px;
+}
 }
 .nav {
   font-size: 18px;
@@ -28,7 +32,7 @@ a {
 #header {
   font-size: 23px;
   font-weight: bold;
-  
+
 }
 body {
   font-family: Helvetica;
